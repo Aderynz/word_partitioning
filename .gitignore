@@ -79,6 +79,17 @@ WorldPartition/Saved/*
 WorldPartition/Saved/AutoScreenshot.png
 WorldPartition/Saved/Autosaves/PackageRestoredata.json
 WorldPartition/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+WorldPartition/Saved/Config/WindowsEditor/Engine.ini
 WorldPartition/Saved/Logs/WorldPartition.log
 WorldPartition/Intermediate/CachedAssetRegistry.bin
 WorldPartition/Intermediate/AssetRegistryCache/**
+
+WorldPartition/Saved/AutoScreenshot.png
+WorldPartition/Saved/Config/CrashReportClient/*
+WorldPartition/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+WorldPartition/Saved/Logs/*
+WorldPartition/Intermediate/CachedAssetRegistry*
+WorldPartition/Intermediate/AssetRegistryCache/*
+WorldPartition/Intermediate/AssetRegistryCache/8620998d.bin
+WorldPartition/Intermediate/AssetRegistryCache/8620998d.bin
+WorldPartition/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
