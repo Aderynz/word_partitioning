@@ -74,7 +74,10 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-/WorldPartition/Intermediate/AssetRegistryCache/*.
-/WorldPartition/Saved/Logs/*.
 
 *.log
+WorldPartition/Saved/AutoScreenshot.png
+WorldPartition/Saved/Config/CrashReportClient/UE4CC-Windows-408E941E4851E9E0CA626ABD659E44CE/CrashReportClient.ini
+WorldPartition/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+WorldPartition/Saved/Logs/WorldPartition.log
+WorldPartition/Intermediate/CachedAssetRegistry.bin
